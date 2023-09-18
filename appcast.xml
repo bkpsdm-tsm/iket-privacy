@@ -6,7 +6,7 @@
             <title>Version 1.1.6</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Mon, 18 Sep 2023 15:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.insancitamultimedia.iket" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.insancitamultimedia.iket" sparkle:version="1.1.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
