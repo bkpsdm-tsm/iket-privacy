@@ -3,10 +3,10 @@
     <channel>
         <title>Iket: Kepegawaian Mandiri</title>
         <item>
-            <title>Version 1.1.16</title>
-            <description>rilis fitur absen</description>
-            <pubDate>Mon, 18 Des 2023 15:19:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.insancitamultimedia.iket" sparkle:version="1.1.16" sparkle:os="android" />
+            <title>Version 1.2.1</title>
+            <description>fix bug issue samsung galaxy z series</description>
+            <pubDate>Sun, 7 Apr 2023 13:49:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.insancitamultimedia.iket" sparkle:version="1.2.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
